@@ -1,0 +1,31 @@
+{
+  "name": "react-bar-chart",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "react-scripts": "2.1.5"
+  },
+  "dependencies": {
+    "d3-axis": "^1.0.4",
+    "d3-interpolate": "^1.1.2",
+    "d3-scale": "^1.0.4",
+    "d3-selection": "^1.0.3",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "yarn run build && gh-pages -d build"
+  },
+  "homepage": "https://deep005.github.io/BarChartReact/",
+  "description": "Chart built with React.",
+  "author": "Deep Shanker",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
