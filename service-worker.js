@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BarChartReact/precache-manifest.c789d38231f01b131a60297128420be1.js"
+  "/BarChartReact/precache-manifest.f19eeb081d92537b94401df9adf612fd.js"
 );
 
 workbox.clientsClaim();
