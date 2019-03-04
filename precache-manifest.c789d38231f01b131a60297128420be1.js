@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/BarChartReact/static/js/runtime~main.8a93306d.js"
   },
   {
-    "revision": "7f808b7427b282519bae",
-    "url": "/BarChartReact/static/js/main.7f808b74.chunk.js"
+    "revision": "63b918781d4f25afb727",
+    "url": "/BarChartReact/static/js/main.63b91878.chunk.js"
   },
   {
     "revision": "cf748f81a3da6ba20ca5",
     "url": "/BarChartReact/static/js/2.cf748f81.chunk.js"
   },
   {
-    "revision": "7f808b7427b282519bae",
-    "url": "/BarChartReact/static/css/main.375050ad.chunk.css"
+    "revision": "63b918781d4f25afb727",
+    "url": "/BarChartReact/static/css/main.aa6af9b8.chunk.css"
   },
   {
-    "revision": "73d8f89d9b5f387f16bd981f5e8a90e8",
+    "revision": "eb2fc54817ab3f362fe2b679d35f48f1",
     "url": "/BarChartReact/index.html"
   }
 ];

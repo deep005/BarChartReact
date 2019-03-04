@@ -1,13 +1,13 @@
 {
-  "main.css": "/BarChartReact/static/css/main.375050ad.chunk.css",
-  "main.js": "/BarChartReact/static/js/main.7f808b74.chunk.js",
-  "main.js.map": "/BarChartReact/static/js/main.7f808b74.chunk.js.map",
+  "main.css": "/BarChartReact/static/css/main.aa6af9b8.chunk.css",
+  "main.js": "/BarChartReact/static/js/main.63b91878.chunk.js",
+  "main.js.map": "/BarChartReact/static/js/main.63b91878.chunk.js.map",
   "runtime~main.js": "/BarChartReact/static/js/runtime~main.8a93306d.js",
   "runtime~main.js.map": "/BarChartReact/static/js/runtime~main.8a93306d.js.map",
   "static/js/2.cf748f81.chunk.js": "/BarChartReact/static/js/2.cf748f81.chunk.js",
   "static/js/2.cf748f81.chunk.js.map": "/BarChartReact/static/js/2.cf748f81.chunk.js.map",
   "index.html": "/BarChartReact/index.html",
-  "precache-manifest.5685cb50f8768ef00314e6eda3cf63d3.js": "/BarChartReact/precache-manifest.5685cb50f8768ef00314e6eda3cf63d3.js",
+  "precache-manifest.c789d38231f01b131a60297128420be1.js": "/BarChartReact/precache-manifest.c789d38231f01b131a60297128420be1.js",
   "service-worker.js": "/BarChartReact/service-worker.js",
-  "static/css/main.375050ad.chunk.css.map": "/BarChartReact/static/css/main.375050ad.chunk.css.map"
+  "static/css/main.aa6af9b8.chunk.css.map": "/BarChartReact/static/css/main.aa6af9b8.chunk.css.map"
 }

@@ -1,0 +1,2 @@
+.App--header__title{display:-webkit-flex;display:flex;-webkit-justify-content:center;justify-content:center;margin-top:5%}@media only screen and (max-width:650px){.App--header__title{font-size:15px}}.App--chart__container{padding:15px;margin:30px auto 0;max-width:800px;overflow:hidden}.Axis line,.Axis path{stroke:#e0e0e0}.Axis text{font-size:11px;fill:#000}.Axis-Bottom text{-webkit-transform:rotate(-45deg);transform:rotate(-45deg);text-anchor:end}body{margin:0;padding:0;font-family:sans-serif}
+/*# sourceMappingURL=main.aa6af9b8.chunk.css.map */
