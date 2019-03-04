@@ -28,7 +28,7 @@ class Chart extends Component {
 
     const xScale = this.xScale
       .padding(0.5)
-      .domain(data.map(d => d.year))
+      .domain(data.map(d => d.title))
       .range([margins.left, svgDimensions.width - margins.right])
 
     const yScale = this.yScale

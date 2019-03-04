@@ -3,7 +3,7 @@ import React from 'react'
 export default ({hoveredBar, scales}) => {
     const { xScale, yScale } = scales
     const styles = {
-      left: `${xScale(hoveredBar.year) - 30}px`,
+      left: `${xScale(hoveredBar.title) - 30}px`,
       top: `${yScale(hoveredBar.value)}px`
     }
   
@@ -12,7 +12,7 @@ export default ({hoveredBar, scales}) => {
         <table>
           <thead>
             <tr>
-              <th colSpan="2">Year: {hoveredBar.year}</th>
+              <th colSpan="2">Year: {hoveredBar.title}</th>
             </tr>
           </thead>
           <tbody>
