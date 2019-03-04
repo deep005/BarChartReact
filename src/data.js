@@ -11,3 +11,6 @@ export const data = [
   { year: '2019', value: 1400}
 ]
 export const colorRange = ['#0ee5F5', '#004FA2'];
+
+export const widthInput = 0;
+export const heightInput = 500;

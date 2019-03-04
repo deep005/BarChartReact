@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { scaleBand, scaleLinear } from 'd3-scale'
 
-import { data } from '../../data'
+import { data, heightInput, widthInput } from '../../data'
 import Axes from '../Axes'
 import Bars from '../Bars'
 import Tooltip from '../Tooltip'
@@ -18,10 +18,10 @@ class Chart extends Component {
   }
 
   render() {
-    const margins = { top: 50, right: 20, bottom: 100, left: 120 }
+    const margins = { top: 50, right: 60, bottom: 100, left: 100 }
     const svgDimensions = {
-      width: Math.min(this.props.parentWidth, 700),
-      height: 500
+      width: widthInput || Math.min((this.props.parentWidth + 20), 700),
+      height: heightInput || 500
     }
 
     const maxValue = Math.max(...data.map(d => d.value))

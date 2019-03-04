@@ -3,13 +3,17 @@
     display: flex;
     justify-content: center;
     margin-top: 5%;
+
+    @media only screen and (max-width: 650px) {
+      font-size: 15px;
+    }
   }
   &--chart__container{
     padding: 15px;
     margin: 0 auto;
     margin-top: 30px;
     max-width: 800px;
-    overflow: auto;
+    overflow: hidden;
   }
 }
 
