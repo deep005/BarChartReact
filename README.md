@@ -5,4 +5,6 @@ Clone the repository and run -> yarn install
 -> yarn run start
 The app will be served at locahost:3000
 
+The input is taken from src/data.js.
+
 P.S. Please ensure you have node 8+ installed on your machine.
